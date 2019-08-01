@@ -1,0 +1,13 @@
+******Shared data programs are not well organized. We we make well organized data and programs later.
+
+Programs
+	1.py-semi-lda-master/archiplsa --Corresponding implementaion of DPLSA
+	2. termgraph/TermGraph -- Experiments with co-occured terms
+	3.semilda2/semi_lda -- Corresponding implementation of SemiLDA
+	4.PLSA-master/llda-nltk ---Corresponding implementation of LLDA
+	5.PLSA-master/tfdf --- Experimentation with tfdf
+
+Dataset
+	1. PLSA-master/keyterm.txt -- Most important 166 key terms used in the experiment
+	2. PLSA-master/04_xx_18 ---Experimental keyterms
+	3. other dataset is in the artifacts folder
